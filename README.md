@@ -1,8 +1,7 @@
 ### Hi there I am Nils a.k.a. Nelson 👋
 
-- 🔭 I’m currently working on my first flutter app.
-- 🌱 I’m currently learning about Delay Tolerant Networks.
+- 🔭 I’m currently working on incremental code generation.
+- 🌱 I’m currently learning about software verification.
 - 💬 Ask me about anything.
 - 📫 How to reach me: Email: n.neuhaeusel@gmail.com | LinkedIn: https://www.linkedin.com/in/nils-neuh%C3%A4usel-050763169/
-- 💻 VentureLab: nils.neuhaeusel@venture-lab.de | nils.neuhaeusel.venturelab@gmail.com
 - ⚡ Fun fact: I love setting PRs in the gym.
